@@ -1,0 +1,8 @@
+name = "iRec"
+uuid = "a41a92ff-049c-420f-a5bd-0d6f9e346aef"
+authors = ["Edoardo D'Amico <damicoedoardo95@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
