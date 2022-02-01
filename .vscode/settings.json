@@ -1,5 +1,0 @@
-{
-    "juliaFormatter.style": "blue",
-    "juliaFormatter.annotateUntypedFieldsWithAny": false,
-    "juliaFormatter.whitespaceInKwargs": false
-}
