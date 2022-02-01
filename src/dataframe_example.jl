@@ -1,6 +1,6 @@
 using DataFrames
 
-df = DataFrame(A = 1:4, B = ["M", "F", "F", "M"])
+df = DataFrame(A = 1:5, B = ["M", "F", "F", "M", "M"])
 
 function p()
     "HELLO"
